@@ -1,5 +1,11 @@
 {
+  "name": "route-inn",
+  "version": "1.0.0",
   "description": "",
+  "license": "ISC",
+  "scripts": {
+    "build": "node server.js"
+  },
   "devDependencies": {
     "http": "^0.0.1-security"
   }
